@@ -90,16 +90,17 @@
   {
     "id": "q-006",
     "name": "Yash K Saini",
-    "username": "username",
-    "avatarUrl": "/default-avatar.png?height=64&width=64",
-    "tweet": "Building in public & on Quira and GitHub has been a wild ride winning open-source bounties, making friends.\n\nQuira has been a refreshing change: no fluff, real community, real rewards. Great people, Grateful to be part of it. Never leaving this platform.",
+    "username": "0xCracked_dev",
+    "avatarUrl": "/0xCracked_dev.png?height=64&width=64",
+    "tweet": "Building in public & on Quira has been a wild ride winning open-source bounties, making friends.\n\nQuira has been a refreshing change: no fluff, real community, real rewards. Great people, Grateful to be part of it. Never leaving this platform.",
     "createdAt": "2025-08-01T20:30:00.000Z",
     "verified": false,
     "role": "Community Member",
-    "link": "replace_with_your_tweet_url",
+    "link": "https://x.com/0xCracked_dev/status/1954186083001852147",
     "tags": [
       "quest winner",
-      "heavy contributor"
+      "heavy contributor",
+      "Weekly winner"
     ],
     "images": []
   },
@@ -281,7 +282,7 @@
     "link": "https://x.com/abinand_11/status/1954167446304072017",
     "tags": [
       "most active member",
-      "solver quester",
+      "solver quester"
     ],
     "images": [],
     "thread": [
