@@ -1,11 +1,12 @@
 ![banner](https://raw.githubusercontent.com/RS-labhub/quira-voices/master/public/og-image.png)
 
-# quira-voices
+# Quira Voices
 A wall of messages from the Quira community.
 
 &nbsp;
 
 **Listen from Rohan Sharma (Ex Community Moderator & Developer Advocate):**
+
 I'm Rohan Sharma. Your cutest, sweetest, handsome, and most charming moderator of [Quira Discord Community](https://discord.gg/GbryCwUgfV).
 
 I wanted to thank you. Quira have been one of the biggest reasons I’ve grown so much in my career. I’ve learned a lot from Quira community. I really hope I didn’t annoy anyone too much along the way 😅
