@@ -22,7 +22,7 @@
     "avatarUrl": "/default-avatar.png?height=64&width=64",
     "tweet": "it’s a great platform for open-source contributions and quests. It allows you to showcase and apply your skills, and it’s an amazing place to build both skills and connections.",
     "createdAt": "2025-08-07T19:45:00.000Z",
-    "verified": true,
+    "verified": false,
     "role": "Community Member",
     "link": "replace_with_your_tweet_url",
     "tags": [
@@ -238,7 +238,7 @@
     "avatarUrl": "/PriyanshuPz.png?height=64&width=64",
     "tweet": "Came to @quira_sh for the quests, stayed for the people 💫\nFrom clueless newbie → quest grinder → helping others, it’s been a wild ride.\nSpecial thanks to @rrs00179 for being the sweetest chaos in our journey 💙 #Quira",
     "createdAt": "2025-07-20T07:40:00.000Z",
-    "verified": true,
+    "verified": false,
     "role": "Community Member",
     "link": "https://x.com/PriyanshuPz/status/1954022448761839847",
     "tags": [
@@ -252,9 +252,9 @@
     "name": "Saloni Verma",
     "username": "sun_onyour_back",
     "avatarUrl": "/sun_onyour_back.png?height=64&width=64",
-    "tweet": "My journey in Quira started when I first made a project for Quest 16 — I remember it was a pretty simple AI app. Along the way, many quests came, and while some were difficult for me to take part in, I did get to know about some amazing open-source projects.",
+    "tweet": "My journey in Quira started when I first made a project for Quest 16. It was a pretty simple AI app, I remember. Along the way, many quests came, and while some were difficult for me to take part in, I did get to know about some amazing open-source projects. But that’s not all, the developer community is very supportive and vibrant here, and to this very day, it is still growing.",
     "createdAt": "2025-07-20T07:40:00.000Z",
-    "verified": true,
+    "verified": false,
     "role": "Community Member",
     "link": "replace_with_your_tweet_url",
     "tags": [
@@ -265,11 +265,7 @@
     "thread": [
       {
         "id": "q-012-1",
-        "tweet": "But that’s not all — the developer community here is very supportive and vibrant, and to this very day, it is still growing."
-      },
-      {
-        "id": "q-012-2",
-        "tweet": "If Quira ceases to exist someday, I would be a little sad but also extremely grateful to have been a part of a community where developers get to make money through open source."
+        "tweet": "If Quira ceases to exist someday, I would be a little sad, but also extremely grateful to have been part of a community where developers can make money through open source."
       }
     ]
   }
