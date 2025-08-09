@@ -1,0 +1,276 @@
+[
+  {
+    "id": "q-001",
+    "name": "Avradeep",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": "It’s been a great journey with Quira! 💙 From being clueless at first to completing quests, helping others, and referring friends — I’ve learned a lot and had so much fun. Shoutout to the amazing Quira mods for all the support!",
+    "createdAt": "2025-08-07T14:22:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_url",
+    "tags": [
+      "quest hunger",
+      "open-source enthusiast"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-002",
+    "name": "Bhanu Pratap",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": "it’s a great platform for open-source contributions and quests. It allows you to showcase and apply your skills, and it’s an amazing place to build both skills and connections.",
+    "createdAt": "2025-08-07T19:45:00.000Z",
+    "verified": true,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "fast learner",
+      "new to tribe"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-003",
+    "name": "Aditya",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": "On my first day at Quira, Om introduced me to the platform, where you can contribute, create projects, and even earn money. He also helped me solve my first quest. Later, he introduced me to Rohan Sharma (you!), and I really appreciated how you gave honest and helpful feedback on my project. It was also genuinely fun chatting with you both. By the way, I’d say Quira has been such a great place to learn, build together, and have fun with the dev folks.",
+    "createdAt": "2025-08-07T08:10:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "sweet guy",
+      "new to tribe"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-004",
+    "name": "Rohan Sharma",
+    "username": "rrs00179",
+    "avatarUrl": "/rrs00179.png?height=64&width=64",
+    "tweet": "coming soon",
+    "createdAt": "2025-08-03T16:02:00.000Z",
+    "verified": true,
+    "role": "Community Moderator and Dev Advocate",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "cute charming mod",
+      "community most fav person"
+    ],
+    "images": [],
+    "thread": [
+      {
+        "id": "q-004-1",
+        "tweet": "coming soon",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "q-005",
+    "name": "Rajesh Adhikari",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": " I came across Quira back in early 2024 when friends asked me to vote on their quests.. Curiosity turned into participation, and I soon found myself building and submitting projects too. Since then, I’ve taken part in multiple quests and it’s helped me grow in more ways than one; sharpening my skills and shifting my mindset. I’m truly grateful to Quira team and the community for creating such an amazing platform where developers and like-minded people can connect, contribute and grow together :)",
+    "createdAt": "2025-08-07T11:20:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "quest winner",
+      "star member"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-006",
+    "name": "Yash K Saini",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": "Building in public & on Quira and GitHub has been a wild ride winning open-source bounties, making friends.\n\nQuira has been a refreshing change: no fluff, real community, real rewards. Great people, Grateful to be part of it. Never leaving this platform.",
+    "createdAt": "2025-08-01T20:30:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "quest winner",
+      "heavy contributor"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-007",
+    "name": "David Pratama",
+    "username": "daviddprtma2812",
+    "avatarUrl": "/daviddprtma2812.png?height=64&width=64",
+    "tweet": "When I first joined Quira in February 2025, my friends recommended trying a quest — like a hackathon — called Quira. 🧵",
+    "createdAt": "2025-07-30T09:12:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "most active member",
+      "discussion starter"
+    ],
+    "images": [],
+    "thread": [
+      {
+        "id": "q-007-1",
+        "tweet": "At first, I thought Quira was just like Devpost — a platform for hackathon-style projects. The UI/UX impressed me right away: smooth, simple, and easy to use."
+      },
+      {
+        "id": "q-007-2",
+        "tweet": "For my first quest (Quest 25), I almost didn’t join. Many participants were highly skilled professionals, and I felt anxious and unsure about what I could build."
+      },
+      {
+        "id": "q-007-3",
+        "tweet": "After 2–3 days of debating, I joined anyway — with a new mindset: \"Success can only be reached if you start from zero.\" That gave me the motivation to create something useful for others."
+      },
+      {
+        "id": "q-007-4",
+        "tweet": "When I submitted my project, I had no expectation of winning. The other entries were amazing — far beyond what I had imagined."
+      },
+      {
+        "id": "q-007-5",
+        "tweet": "Then came the announcement at the Opera House for Quest 25. To my shock, my project was in the Top 2, featured in Rodrigo’s presentation. I was thrilled and couldn’t believe it."
+      },
+      {
+        "id": "q-007-6",
+        "tweet": "That moment made me decide to join every future Quest or Solve Challenge as soon as I can. Huge thanks to friends like Rodrigo, you, Om, and others who’ve supported me!"
+      }
+    ]
+  },
+  {
+    "id": "q-008",
+    "name": "Spandan Mukherjee",
+    "username": "spandan_twts",
+    "avatarUrl": "/spandan_twts.png?height=64&width=64",
+    "tweet": "When I first joined @quira_sh , I thought it’d just be “another community server.”\nI was wrong. It became one of the best decisions I’ve ever made online. 🧵",
+    "createdAt": "2025-08-08T16:02:00.000Z",
+    "verified": false,
+    "role": "Ex Dev Advocate",
+    "link": "https://x.com/spandan_twts/status/1953751799405461689",
+    "tags": [
+      "community builder",
+      "good friend"
+    ],
+    "images": [],
+    "thread": [
+      {
+        "id": "q-008-1",
+        "tweet": "On my first day, I was just a quiet member, exploring channels and trying to figure out how everything worked.\nThe welcoming vibe made me stay. The curiosity made me explore more.",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      },
+      {
+        "id": "q-008-2",
+        "tweet": "Then came my first Quest.\nHelping someone solve a problem, sharing resources, or even just being part of a discussion — I realized Quira isn’t about clout, it’s about building each other up.",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      },
+      {
+        "id": "q-008-3",
+        "tweet": "Somewhere along the way, I became a Dev Advocate.\nNot just a title — it meant I could guide others, share my experiences, and help newcomers feel the same way I felt on Day 1: welcome.",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      },
+      {
+        "id": "q-008-4",
+        "tweet": "I’ve grown here — not just as a dev, but as a person.\nFrom learning in public, to leading initiatives, to meeting people who inspire me daily… @quira_sh has been the bridge between potential and progress.",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      },
+      {
+        "id": "q-008-5",
+        "tweet": "If there’s one thing I’ve learned:\nCommunities aren’t made of rules or channels — they’re made of people who care. @quira_sh is living proof of that. 💜",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      },
+      {
+        "id": "q-008-6",
+        "tweet": "Thank you, @quira_sh.\nThank you for the friendships, the growth, the laughs, and the challenges.\nIf you’re reading this and wondering if you should join — trust me, it’s worth it. ✨",
+        "images": [],
+        "createdAt": "2025-08-03T16:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "q-009",
+    "name": "Sourabh Tiwari",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": "Quira is a mirage in a desert but a mirage that really exist, it help stranded people who are deserted in hard job market like me. where they can learn and earn same time and cherry on top got to know awesome, inspiring and just all round amazing people like rohan sharma, k.om senpati etc.",
+    "createdAt": "2025-07-28T18:05:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "good friend",
+      "new to tribe"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-010",
+    "name": "Vignesh J",
+    "username": "username",
+    "avatarUrl": "/default-avatar.png?height=64&width=64",
+    "tweet": " Love how Quira promotes & rewards open-source contributions! 🚀 Haven’t joined any quests yet, but I’m ready to dive in soon.",
+    "createdAt": "2025-07-25T13:55:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "discussion starter",
+      "blog writer"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-011",
+    "name": "Priyanshu Verma",
+    "username": "PriyanshuPz",
+    "avatarUrl": "/PriyanshuPz.png?height=64&width=64",
+    "tweet": "Came to @quira_sh for the quests, stayed for the people 💫\nFrom clueless newbie → quest grinder → helping others, it’s been a wild ride.\nSpecial thanks to @rrs00179 for being the sweetest chaos in our journey 💙 #Quira",
+    "createdAt": "2025-07-20T07:40:00.000Z",
+    "verified": true,
+    "role": "Community Member",
+    "link": "https://x.com/PriyanshuPz/status/1954022448761839847",
+    "tags": [
+      "quest winner",
+      "heavy contributor"
+    ],
+    "images": []
+  },
+  {
+    "id": "q-012",
+    "name": "Saloni Verma",
+    "username": "sun_onyour_back",
+    "avatarUrl": "/sun_onyour_back.png?height=64&width=64",
+    "tweet": "My journey in Quira started when I first made a project for Quest 16 — I remember it was a pretty simple AI app. Along the way, many quests came, and while some were difficult for me to take part in, I did get to know about some amazing open-source projects.",
+    "createdAt": "2025-07-20T07:40:00.000Z",
+    "verified": true,
+    "role": "Community Member",
+    "link": "replace_with_your_tweet_url",
+    "tags": [
+      "most active member",
+      "quest streaker"
+    ],
+    "images": [],
+    "thread": [
+      {
+        "id": "q-012-1",
+        "tweet": "But that’s not all — the developer community here is very supportive and vibrant, and to this very day, it is still growing."
+      },
+      {
+        "id": "q-012-2",
+        "tweet": "If Quira ceases to exist someday, I would be a little sad but also extremely grateful to have been a part of a community where developers get to make money through open source."
+      }
+    ]
+  }
+]
