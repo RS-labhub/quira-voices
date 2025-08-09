@@ -109,7 +109,7 @@
     "link": "replace_with_your_tweet_url",
     "tags": [
       "most active member",
-      "discussion starter"
+      "quest winner"
     ],
     "images": [],
     "thread": [
@@ -354,6 +354,36 @@
       {
         "id": "q-017-1",
         "tweet": "the regularly hosted quira quests, partnered with incredible tech & OS org, and let's not forget the lively convos between the beloved mods- the \"cute\" @rrs00179 and @k0msenapati.\nIt has been a great experience in the server, and i thank @quira_sh, the mods & everyone there."
+      }
+    ]
+  },
+  {
+    "id": "q-018",
+    "name": "Abinand P",
+    "username": "abinand_11",
+    "avatarUrl": "/abiji_2020.png",
+    "tweet": "My open source journey began almost by accident during Hactoberfest 2024, when a Quira bot comment on GitHub caught my attention. What started as curiosity turned into a deep dive into professional codebases through @quira_sh \"solver quests.\"🧵",
+    "createdAt": "2025-08-08 13:14:23.954163Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "https://x.com/abinand_11/status/1954167446304072017",
+    "tags": [
+      "most active member",
+      "solver quester"
+    ],
+    "images": [],
+    "thread": [
+      {
+        "id": "q-018-1",
+        "tweet": "The community became my hands-on classroom, teaching me how real-world development works: fast-paced, collaborative, and far beyond what textbooks could offer."
+      },
+      {
+        "id": "q-018-2",
+        "tweet": "Through Quira, I contributed to projects like Permit.io and Daytona, each pushing me outside my comfort zone and sharpening my skills in developer tooling. the biggest lesson I've learned is that growth comes from collaboration and learning in public."
+      },
+      {
+        "id": "q-018-3",
+        "tweet": "I began knowing nothing about open source, here Quira started it and now I'm an active contributor, ready to take on improving next developer tooling."
       }
     ]
   }
