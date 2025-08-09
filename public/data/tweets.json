@@ -10,8 +10,8 @@
     "role": "Community Member",
     "link": "https://x.com/HbjarkoZedo/status/1954196387492503924",
     "tags": [
-      "quest hunger",
-      "open-source enthusiast"
+      "quest winner",
+      "quest hunger"
     ],
     "images": []
   },
@@ -323,7 +323,7 @@
     "name": "Chirag Aggarwal",
     "username": "ChiragAgg5k",
     "avatarUrl": "/ChiragAgg5k.png?height=64&width=64",
-    "tweet": "came across @quira around a year and half ago, and the journey from there has been truly life changing.\nI met devs with same interest and passion for coding as mine, we competed in quests and earned prizes for simply coding in open source and at the same time trying new technologies.\nIt made me learn a ton about os, helped me land my first internship in os, and gave me everlasting memories.\nThank you quira, for everything ❤️",
+    "tweet": "I came across @quira around a year and half ago, and the journey from there has been truly life changing.\nI met devs with same interest and passion for coding as mine, we competed in quests and earned prizes for simply coding in open source and at the same time trying new technologies.\nIt made me learn a ton about os, helped me land my first internship in os, and gave me everlasting memories.\nThank you quira, for everything ❤️",
     "createdAt": "2025-08-09T07:40:00.000Z",
     "verified": false,
     "role": "Community Member",
@@ -361,9 +361,9 @@
     "id": "q-018",
     "name": "Abinand P",
     "username": "abinand_11",
-    "avatarUrl": "/abiji_2020.png",
+    "avatarUrl": "/abiji_2020.png?height=64&width=64",
     "tweet": "My open source journey began almost by accident during Hactoberfest 2024, when a Quira bot comment on GitHub caught my attention. What started as curiosity turned into a deep dive into professional codebases through @quira_sh \"solver quests.\"🧵",
-    "createdAt": "2025-08-08 13:14:23.954163Z",
+    "createdAt": "2025-08-08T13:14:23.954163Z",
     "verified": false,
     "role": "Community Member",
     "link": "https://x.com/abinand_11/status/1954167446304072017",
@@ -386,5 +386,21 @@
         "tweet": "I began knowing nothing about open source, here Quira started it and now I'm an active contributor, ready to take on improving next developer tooling."
       }
     ]
+  },
+  {
+    "id": "q-019",
+    "name": "Abid Hussain",
+    "username": "mdabidhussain_",
+    "avatarUrl": "/mdabidhussain_.png?height=64&width=64",
+    "tweet": "I joined the @quira_sh community a while ago, but really got involved about a year back. Since then, I’ve met amazing developers, dove into quests, and contributed to open-source projects like @MindsDB, @CopilotKit, @daytonaio & @CyclopsUI. Learned a lot and earned along the way.",
+    "createdAt": "2025-08-08T13:14:24.954163Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "https://x.com/mdabidhussain_/status/1954222673833128130",
+    "tags": [
+      "quest winner",
+      "most active member"
+    ],
+    "images": []
   }
 ]
