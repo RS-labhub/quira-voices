@@ -17,6 +17,6 @@ Quira was like my second home, and every member here was family. I’m going to 
 
 &nbsp;
 
-If you’d like to share your own Quira story and experiences, please take a look at our [Contribution](https://github.com/RS-labhub/Radhika/blob/master/CONTRIBUTING.md) guidelines.
+If you’d like to share your own Quira story and experiences, please take a look at our [Contribution](https://github.com/RS-labhub/quira-voices/blob/master/CONTRIBUTING.md) guidelines.
 
 Once again, thank you for being part of this family, it truly means the world to me.

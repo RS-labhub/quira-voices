@@ -10,7 +10,7 @@ You can find it in any of these ways:
 * Search for `tweets.json` in the project files.
 * Navigate manually:
   `public > data > tweets.json`
-* Or click here to open it directly → [tweets.json](https://github.com/RS-labhub/Radhika/blob/master/public/data/tweets.json)
+* Or click here to open it directly → [tweets.json](https://github.com/RS-labhub/quira-voices/blob/master/public/data/tweets.json)
 
 &nbsp;
 
