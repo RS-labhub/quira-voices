@@ -403,5 +403,18 @@
       "most active member"
     ],
     "images": []
+  },
+  {
+    "id": "q-020",
+    "name": "Akash Jana",
+    "username": "Akashj_01",
+    "avatarUrl": "/Akashj_01.jpg?height=64&width=64",
+    "tweet": "My OS journey felt so much lighter bc I stumbled upon @quira_sh right at the start\n Got the help I needed, found friends, and bonded with amazing orgs\n Earned my first $10, swags but memories matter most \n One of the most fun servers I’ve ever been part of\nForever grateful ✨\n",
+    "createdAt": "2025-08-08T13:14:24.954163Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "https://x.com/Akashj_01/status/1954244026653347987",
+    "tags": ["open-source contributor", "Weekly Winner", "Best Memer"],
+    "images": ["/images/akash_quira_profile.png"]
   }
 ]
