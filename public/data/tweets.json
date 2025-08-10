@@ -251,7 +251,7 @@
     "createdAt": "2025-08-08T00:40:00.000Z",
     "verified": false,
     "role": "Community Member",
-    "link": "replace_with_your_tweet_url",
+    "link": "https://x.com/sun_onyour_back/status/1954422830323716569",
     "tags": [
       "most active member",
       "quest streaker"
@@ -415,6 +415,22 @@
     "role": "Community Member",
     "link": "https://x.com/Akashj_01/status/1954244026653347987",
     "tags": ["open-source contributor", "Weekly Winner", "Best Memer"],
+    "images": []
+  },
+  {
+    "id": "q-020",
+    "name": "Pheonix Coder",
+    "username": "pheonix_coder",
+    "avatarUrl": "/pheonix_coder.png?height=64&width=64",
+    "tweet": "@quira_sh is my favorite\n\nI earned a few bucks while learning and building projects based on ai and full stack.\nI am really sad that its ending @rrs00179 do something\nI loved the community fellas like @ChiragAgg5k @Akashj_01 @0xCracked_dev @k0msenapati\nI will miss it!!!",
+    "createdAt": "2025-08-10T13:14:24.954163Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "https://x.com/pheonix_coder/status/1954448442249421310",
+    "tags": [
+      "weekly win winner",
+      "most active member"
+    ],
     "images": []
   }
 ]
