@@ -418,7 +418,7 @@
     "images": []
   },
   {
-    "id": "q-020",
+    "id": "q-021",
     "name": "Pheonix Coder",
     "username": "pheonix_coder",
     "avatarUrl": "/pheonix_coder.png?height=64&width=64",
@@ -449,5 +449,32 @@
       "blog writer"
     ],
     "images": []
+  },
+  {    
+    "id": "q-023",
+    "name": "Rohit",
+    "username": "rohittcodes",
+    "avatarUrl": "/rohittcodes.jpg?height=64&width=64",
+    "tweet": "a year back, i was just tryna find ways to make some cash for my spendings.. randomly came across quira through some open source event.. joined my first quest, didn’t feel great, codemonkey (the first great thing i built) lost it, but learnt a ton that month while i was broke af",
+    "createdAt": "2025-08-12T14:12:32.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "https://x.com/rohittcodes/status/1955278756001522176",
+    "tags": ["open-source contributor", "quest winner", "kinda no one"],
+    "images": [],
+    "thread": [
+      {
+        "id": "q-023-1",
+        "tweet": "i was just tryna find ways to make some cash for my spendings.. randomly came across quira through some open source event.. joined my first quest, didn’t feel great, codemonkey (the first great thing i built) lost it, but learnt a ton that month while i was broke af"
+      },
+      {
+        "id": "q-023-2",
+        "tweet": "tried again the next month, same result loll, but yeah this time it was kinda on me.. @rrs00179 (the dumb one) convinced me to give it another shot, and that’s when things flipped.. got my first win, and after that, never really stopped.. met a few cool folks along the way."
+      },
+      {
+        "id": "q-023-3",
+        "tweet": "so yeah, thanks @quira_sh. for showing up, for teaching me stuff, and for letting me grow."
+      }
+    ]
   }
 ]
