@@ -476,5 +476,18 @@
         "tweet": "so yeah, thanks @quira_sh. for showing up, for teaching me stuff, and for letting me grow."
       }
     ]
+  },
+  {
+  "id": "q-024",
+  "name": "Dishika",
+  "username": "Dishika88200",
+  "avatarUrl": "/Dishika88200.jpg?height=64&width=64",
+  "tweet": "From joining the @quira_sh server, to participating in the quests, the prizes, the help shared, and the friendships made this place has been more than a community. I learned so much and met many amazing people along the way. Grateful for every moment and everything I've gained.",
+  "createdAt": "2025-08-12T15:30:00.000Z",
+  "verified": false,
+  "role": "Community Member",
+  "link": "https://x.com/Dishika88200/status/1955296894025957446",
+  "tags": ["open-source contributor", "subtly low-key"],
+  "images": []
   }
 ]
