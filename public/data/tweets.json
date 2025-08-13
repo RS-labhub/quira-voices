@@ -489,5 +489,31 @@
   "link": "https://x.com/Dishika88200/status/1955296894025957446",
   "tags": ["open-source contributor", "subtly low-key"],
   "images": []
+  },
+  {
+  "id": "q-025",
+  "name": "Juanitaaaaa Cathy",
+  "username": "CathyJuani22964",
+  "avatarUrl": "/CathyJuani22964.png?height=64&width=64",
+  "tweet": "i joined a cult in my 2nd year\nturns out it was just open source.\n\njoined @quira_sh and that was my best decision. met curious folks, wild build ideas and they helped me gain exp with new tech! even survived the endless MindsDB quests\nbest community ever! <3\n#OpenSource #Quira",
+  "createdAt": "2025-08-11T12:27:00.000Z",
+  "verified": false,
+  "role": "Community Member",
+  "link": "https://x.com/CathyJuani22964/status/1954799194503356927",
+  "tags": ["quest streaker", "heavy hustler"],
+  "images": []
+  },
+  {
+  "id": "q-026",
+  "name": "Lymah",
+  "username": "lymahcodes",
+  "avatarUrl": "/lymahcodes.png?height=64&width=64",
+  "tweet": "Quira.sh has been a great platform for open source contributors who want to learn and earn with their contributions through bountiful quests. I even got my second sponsor on GitHub thanks to Quira.sh. Not only that, but you also have the opportunity to be part of a supportive community through their Discord channel. I did have an issue with withdrawing my first loot, but the DevRel, a person named Rohan, came through for me and made it possible for me to receive it via GitHub Sponsors.",
+  "createdAt": "2025-08-11T09:00:00.000Z",
+  "verified": false,
+  "role": "Community Member",
+  "link": "",
+  "tags": ["quest hunger", "good friend"],
+  "images": []
   }
 ]
