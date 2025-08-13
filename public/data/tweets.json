@@ -528,5 +528,21 @@
   "link": "https://x.com/AnClicks/status/1955580705901289695",
   "tags": ["quest seeker", "open-source contributor"],
   "images": []
+  },
+  {
+    "id": "q-028",
+    "name": "Subash Lamichhane",
+    "username": "SubashLmch",
+    "avatarUrl": "/SubashLmch.png?height=64&width=64",
+    "tweet": "I discovered quira_sh when a friend asked me to vote for their project. Supporting them led me explore the platform myself. Starting with Quest 5, I found an inspiring community—and even earned some money. Truly grateful for the experience!",
+    "createdAt": "2025-08-013T22:12:00.000Z",
+    "verified": false,
+    "role": "Community Member",
+    "link": "https://x.com/SubashLmch/status/1955667462466548213",
+    "tags": [
+      "quest winner",
+      "star member"
+    ],
+    "images": ["open-source contributor", "quest streaker"]
   }
 ]
