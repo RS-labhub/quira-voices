@@ -560,5 +560,31 @@
   "link": "https://x.com/SubashLmch/status/1955667462466548213",
   "tags": ["quest winner", "quest lover"],
   "images": []
+  },
+  {
+  "id": "q-030",
+  "name": "Niharika Goulikar",
+  "username": "Niharika57403",
+  "avatarUrl": "/default-avatar.png?height=64&width=64",
+  "tweet": "Grateful for the Quira Quests!\n🌟Learned a lot, explored amazing open-source projects solving real-world problems, and built something meaningful out of it. 🚀\nP.S. Made some money too 💞 #OpenSource #QuiraQuests",
+  "createdAt": "2025-08-13T22:42:00.000Z",
+  "verified": false,
+  "role": "Community Member",
+  "link": "https://x.com/Niharika57403/status/1955678812139847990",
+  "tags": ["quest winner", "weekly win winner"],
+  "images": []
+  },
+  {
+  "id": "q-031",
+  "name": "Jaya Kedia",
+  "username": "",
+  "avatarUrl": "/jaydaKedia.png?height=64&width=64",
+  "tweet": "It's been such a rewarding ride as Developer Advocate at Quira.\nGot to work with an amazing team, met some great people and learned a lot along the way.\nAt Quira, I grew in ways I didn't expect. Grateful for the journey and excited for what's next.\nOnwards and upwards! 🚀",
+  "createdAt": "2025-08-13T23:49:00.000Z",
+  "verified": false,
+  "role": "Ex Dev Advocate",
+  "link": "",
+  "tags": ["community builder", "heavy hustler"],
+  "images": []
   }
 ]
