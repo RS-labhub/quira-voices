@@ -528,5 +528,24 @@
   "link": "https://x.com/AnClicks/status/1955580705901289695",
   "tags": ["quest seeker", "open-source contributor"],
   "images": []
+  },
+  {
+  "id": "q-028",
+  "name": "Ayush Jhawar",
+  "username": "itsAyushJ",
+  "avatarUrl": "/itsAyushJ.png?height=64&width=64",
+  "tweet": "I started @quira_sh in Oct last year. Didn’t know anyone, didn’t know what to expect. Ended up meeting some of the nicest people ever, working on stuff I was actually excited about, and learning a stupid amount along the way.",
+  "createdAt": "2025-08-13T16:12:00.000Z",
+  "verified": false,
+  "role": "Community Member",
+  "link": "https://x.com/itsAyushJ/status/1955656507313598841",
+  "tags": ["day one forever","quest winner","weekly win winner"],
+  "images": [],
+  "thread": [
+    {
+      "id": "q-028-1",
+      "tweet": "But as with all beautiful stories, this chapter is closing.  Feels like saying goodbye to a friend. Guess all good things really do come to an end. 😭🥹"
+    }
+  ]
   }
 ]
